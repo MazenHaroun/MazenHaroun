@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="pic.png" width="300" height="300" alt="Mazen Profile Picture">
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR-ID-HERE" width="200" height="200" style="border-radius: 50%" alt="MazenHaron Profile Pic">
 </p>
 
