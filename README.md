@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">AI Engineer | Neural Network Specialist | Machine Learning Enthusiast</h3>
+<h3 align="center">AI Engineer</h3>
 
 ---
 
@@ -95,4 +95,4 @@
 ## 📫 How to reach me
 
 - 📧 Email: `mazenharon2006@gmail.com`
-- 📞 WhatsApp: 01151236216
+- 📞 WhatsApp: +20 1151236216
